@@ -50,7 +50,7 @@ Screenshot: ![Q1 Image4](images/q14.png)
 
 Command used: ping -c 4 www.google.com  
 
-Ouput Screenshot: ![Q1 Image9](images/q19.png)  
+Ouput Screenshot: ![Q1 Image9](images/q15.png)  
 
 Explanation: I used the ping to send packets to google.com. Since it would continuously send pings, I used the -c option to limit the number of pings to 4.  
 
