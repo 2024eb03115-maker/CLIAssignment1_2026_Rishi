@@ -1,0 +1,43 @@
+Username and and Groups:
+uid=1000(coder) gid=1000(coder) groups=1000(coder),27(sudo)
+
+Current Shell:
+/bin/bash
+
+Current Working Directory:
+/home/coder
+Files and Directories:
+total 34
+drwxrwxrwx  3 nobody nogroup  6144 Jun 24 12:51 coursera
+drwxr-xr-x  2 root   root     6144 Jun  9 10:51 coursera-ro
+drwxr-xr-x  3 coder  coder       3 Jun 26  2023 data
+drwxrwxrwx  3 nobody nogroup  6144 Jun 24 12:51 Desktop
+drwxr-xr-x  2 root   root     6144 Jun  9 10:51 Desktop-ro
+drwxr-xr-x  2 coder  coder       4 Jun 26  2023 Desktop.save
+drwxr-xr-x  2 coder  coder       2 Jun 26 05:30 Documents
+drwxr-xr-x  2 coder  coder       2 Jun 26 05:30 Downloads
+-rw-r--r--  1 coder  coder     174 Jun 26 05:35 environment.txt
+drwxr-xr-x  2 coder  coder      13 Jun 26  2023 install
+drwxr-xr-x  2 coder  coder       2 Jun 26 05:30 Music
+drwxr-xr-x 20 coder  coder      21 Jun 26  2023 node_modules
+drwxr-xr-x  9 coder  coder      20 Jun 26  2023 noVNC
+-rw-r--r--  1 coder  coder      75 Jun 26  2023 package.json
+-rw-r--r--  1 coder  coder   11316 Jun 26  2023 package-lock.json
+drwxr-xr-x  2 coder  coder       2 Jun 26 05:30 Pictures
+drwxr-xr-x  2 coder  coder       2 Jun 26 05:30 Public
+drwxr-xr-x  2 coder  coder       2 Jun 26 05:30 Templates
+drwxr-xr-x  2 coder  coder       2 Jun 26 05:30 Videos
+-rw-r--r--  1 coder  coder      60 Jun 26 05:30 wm.log
+-rwxr-xr-x  1 coder  coder     308 Jun 26  2023 wm_startup.sh
+drwxr-xr-x  2 coder  coder       2 Jun 26  2023 workspace
+-rwxr-xr-x  1 coder  coder     314 Jun 26  2023 wrapper_process.sh
+Network Connectivity:
+PING www.google.com (142.251.157.119) 56(84) bytes of data.
+From ip-172-18-0-1.ec2.internal (172.18.0.1) icmp_seq=1 Destination Port Unreachable
+From ip-172-18-0-1.ec2.internal (172.18.0.1) icmp_seq=2 Destination Port Unreachable
+From ip-172-18-0-1.ec2.internal (172.18.0.1) icmp_seq=3 Destination Port Unreachable
+From ip-172-18-0-1.ec2.internal (172.18.0.1) icmp_seq=4 Destination Port Unreachable
+
+--- www.google.com ping statistics ---
+4 packets transmitted, 0 received, +4 errors, 100% packet loss, time 3045ms
+
